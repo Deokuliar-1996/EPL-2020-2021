@@ -7,14 +7,14 @@ This is a EDA of the 2020-2021 Premier League season. Data has been captured by 
 
 
 
-Motivation
+## Motivation ##
 
 With the pandemic going on, i took an intererst in data analysis and decided to learn modules like pandas,matplotlib,seaborn and even Machine learning and nothing better than to use it in something im addicted to - 'FOOTBALL'.
 
 
 
 
-Data
+## Data ##
 
 	1)FPL_2020-2021_agg_stats.xlsx - consists aggregate data of stats for each player throughout season
 
@@ -24,9 +24,9 @@ Data
 
 
 
-Feature definitions
+## Feature definitions ##
 
-FPL_2020-2021_agg_stats.xlsx
+#### FPL_2020-2021_agg_stats.xlsx ####
 
 	1) team = team id (1='Arsenal',2='Aston Villa',3='Brighton',4='Burnley',5='Chelsea',6='Crystal Palace',7='Everton',8='Fulham',9='Leeds',10='Leicester',11='Liverpool',12='Man City',13='Man Utd',14='Newcastle',15='Sheffield Utd',16='Southampton',17='Spurs',18='West Brom',19='West Ham',20='Wolves' 
 	
@@ -74,7 +74,7 @@ FPL_2020-2021_agg_stats.xlsx
 
 
 
-FPL_2020-2021_weekly_stats.xlsx
+#### FPL_2020-2021_weekly_stats.xlsx ####
 	
 	1)element - player_id (same as id in FPL_2020-2021_agg_stats.xlsx)
 	
