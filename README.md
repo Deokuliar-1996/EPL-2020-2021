@@ -1,7 +1,7 @@
 # EPL-2020-2021
 Analysis of the 2020-2021 Premier League
 
-Overview
+## Overview ##
 
 This is a EDA of the 2020-2021 Premier League season. Data has been captured by the Fantasy premier legaue API - 'https://fantasy.premierleague.com/api/bootstrap-static/' and player data has been captured from API - https://fantasy.premierleague.com/api/element-summary/.
 
