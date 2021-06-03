@@ -6,8 +6,7 @@ Analysis of the 2020-2021 Premier League
 This is a EDA of the 2020-2021 Premier League season. Data has been captured by the Fantasy premier legaue API - 'https://fantasy.premierleague.com/api/bootstrap-static/' and player data has been captured from API - https://fantasy.premierleague.com/api/element-summary/.
 
 
-
-##Motivation##
+Markup :  ## Heading 2 ##
 
 With the pandemic going on, i took an intererst in data analysis and decided to learn modules like pandas,matplotlib,seaborn and even Machine learning and nothing better than to use it in something im addicted to - 'FOOTBALL'.
 
