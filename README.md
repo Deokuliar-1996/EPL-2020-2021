@@ -3,8 +3,9 @@ Analysis of the 2020-2021 Premier League
 
 ## Overview ##
 
-This is a EDA of the 2020-2021 Premier League season. Data has been captured by the Fantasy premier legaue API - 'https://fantasy.premierleague.com/api/bootstrap-static/' and player data has been captured from API - https://fantasy.premierleague.com/api/element-summary/.
-
+	1.EDA of the 2020-2021 Premier League season. Data has been captured by the Fantasy premier legaue API - 'https://fantasy.premierleague.com/api/bootstrap-static/' and player data has been captured from API - https://fantasy.premierleague.com/api/element-summary/.
+ 
+        2.Predicting out of position players using a ML model.
 
 
 ## Motivation ##
@@ -19,6 +20,12 @@ With the pandemic going on, i took an intererst in data analysis and decided to 
 	1. FPL_2020-2021_agg_stats.xlsx - consists aggregate data of stats for each player throughout season
 
 	2. FPL_2020-2021_weekly_stats.xlsx - consists of weekly data of stats for each player throughout season	
+
+	3. FPL_2019_2020_weekly_stats.csv - consists of weekly data of stats for each player throughout season
+
+	4.fpl_2019-2020_position_xgstats.xlsx - consists positions and xG and xA of all players in 2019-2020 season
+
+	5.fpl_2020-2021_xgstats.xlsx - consists of xG and xA of all players in 2020-2021 season
 
 
 
@@ -87,3 +94,29 @@ With the pandemic going on, i took an intererst in data analysis and decided to 
 	5. team_a_score - Away team score
 	
 	Other columns are same as the ones in FPL_2020-2021_agg_stats.xlsx
+
+
+
+
+
+#### fpl_2019-2020_position_xgstats.xlsx ####
+
+	1. Name- Player Name
+
+	2. Position - Position of player
+
+	3. xG - expected goals
+
+	4. xA - expected assists
+
+
+
+
+
+#### fpl_2020-2021_xgstats.xlsx ####
+
+	1. web_name- Player Name
+
+	2. xG - expected goals
+
+	3. xA - expected assists
